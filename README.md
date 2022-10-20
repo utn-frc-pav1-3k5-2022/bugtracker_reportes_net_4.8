@@ -1,17 +1,17 @@
 
-# BugTracker - Actividad Reportes - Parte 2
+# BugTracker - Actividad Reportes - .Net 4.8
 
 
 ## 1. Clonar Repositorio (Clone/Checkout)
 
 **1.1. Ejecutar comando clone para descargar repositorio:** 
 ```sh
-$ git clone https://github.com/utn-frc-pav1-3k5-2020/actividad_reportes
+$ git clone https://github.com/utn-frc-pav1-3k5-2022/bugtracker_reportes_net_4.8
 ```
 **1.2. Ubicarse en la carpeta generada con el nombre del repositorio: 
 
 ```sh
-$ cd actividad_reportes
+$ cd bugtracker_reportes_net_4.8
 ```
 
 **1.3. Crear un nuevo branch (rama)**
